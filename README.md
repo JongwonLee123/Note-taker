@@ -8,7 +8,7 @@ This program allows a user to
 *delete 
 notes.
 
-Link to deployment on Heroku.
+Link to deployment on Heroku: https://leenote-taker.herokuapp.com/
 
 ## Table of Contents
 - [Installation](#installation)
